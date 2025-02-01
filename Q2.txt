@@ -1,0 +1,17 @@
+Q1: Extracting the IP Address from a TCP Packet
+The IP address found in the TCP packet containing the message "< my ip address = >" is:
+➡ 10.1.2.200
+
+Q2: Counting Packets with the Identified IP Address
+The total number of packets that contain the IP address 10.1.2.200 is:
+➡ 80 packets
+
+Q3: Extracting Laptop Name and TCP Checksum
+(a) Laptop Name Found in a TCP Packet:
+➡ lenovo
+(b) TCP Checksum of the Packet Containing the Laptop Name:
+➡ 0x0a61
+Q4: Counting Packets Containing "Order successful"
+The total number of packets that contain the message "Order successful" is:
+➡ 40 packets
+
